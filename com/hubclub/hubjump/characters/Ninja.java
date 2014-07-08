@@ -55,11 +55,11 @@ public class Ninja {
 		
 	}// END OF ninjaJump METHOD
 	
-	public void ninjaContact() {
+	public void ninjaCollision() {
 		
-		// TODO ~ write code for the contact with one of the walls 
+		// TODO ~ write code for the collision with one of the walls 
 		// You can use this to change direction and other stuff
 		
-	}// END OF ninjaContact METHOD
+	}// END OF ninjaCollision METHOD
 	
 }// END OF Ninja CLASS
